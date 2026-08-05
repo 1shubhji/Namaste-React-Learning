@@ -1,0 +1,38 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "SO this is my learning through Akshay Saini course namaste React",
+  "keywords": [
+    "react",
+    "shubham",
+    "kumar",
+    "akshay",
+    "saini"
+  ],
+  "homepage": "https://github.com/1shubhji/Namaste-React-Learning#readme",
+  "bugs": {
+    "url": "https://github.com/1shubhji/Namaste-React-Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1shubhji/Namaste-React-Learning.git"
+  },
+  "license": "ISC",
+  "author": "Shubham Kumar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "browserslist":[
+  "last 2 versions"
+]
+}
+
+

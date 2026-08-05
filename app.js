@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+
 const parent = React.createElement('div',{id:"parent"},React.createElement('div',{id:"child"},React.createElement('h1',{},'Hii nested elements using react here guys!')));
 
 const x = React.createElement('div',{id:"parent"},React.createElement('div',{id:"child"},[React.createElement('h1',{},'Hii nested elements using react here guys!'),React.createElement('h2',{},'Hii Sibling elements using react here guys!')]));
